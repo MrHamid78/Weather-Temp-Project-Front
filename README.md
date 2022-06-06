@@ -1,4 +1,4 @@
 # Weather-Temp-Project-Front
 Using Jquery (Front-End) 
-برای تغییر آدرس و اتصال به back-end ، فایل js/static.js را ویرایش ، و آدرس سرور را قراردهید.
-مقدار پیشفرض : http://localhost:8080
+To change the server address and connect to the back-end, edit the js/static.js file, and insert the server address.
+Default value: http://localhost:8080
